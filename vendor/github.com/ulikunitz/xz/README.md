@@ -86,3 +86,5 @@ and no patches or pull requests are accepted without a review.
 
 All security advisories for this project are published under
 [github.com/ulikunitz/xz/security/advisories](https://github.com/ulikunitz/xz/security/advisories?state=published).
+
+<!-- Auto-update: 2025-10-07T05:59:31.882511 -->
